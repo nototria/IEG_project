@@ -15,5 +15,12 @@ Main control
 
 ----------------------
 
+Credit
+
+thanks 洪秉廷 for creating game elements.
+https://www.instagram.com/brian_wants_to_eat/
+
+----------------------
+
 End of document
 
