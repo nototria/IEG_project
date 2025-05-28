@@ -1,4 +1,4 @@
-戀材顧的竹園大冒險 1.0
+TNFSH RUN
 ----------------------
 
 A little game for recollecting my senior high school life.
